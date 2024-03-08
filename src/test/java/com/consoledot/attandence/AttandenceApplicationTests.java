@@ -9,5 +9,4 @@ class AttandenceApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
